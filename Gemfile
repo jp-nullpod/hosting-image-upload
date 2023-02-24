@@ -46,6 +46,8 @@ gem "bootsnap", require: false
 gem "simple_form", github: "heartcombo/simple_form"
 gem "sassc-rails" # Uncomment this line
 
+gem "dotenv-rails", groups: [:development, :test]
+gem "cloudinary"
 # Use Sass to process CSS
 # gem "sassc-rails"
 
@@ -75,4 +77,3 @@ group :test do
   gem "webdrivers"
 end
 
-gem "dotenv-rails", groups: [:development, :test]
