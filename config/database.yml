@@ -67,4 +67,3 @@ test:
 #   database: hosting_image_upload_production
 #   username: hosting_image_upload
 #   password: <%= ENV["HOSTING_IMAGE_UPLOAD_DATABASE_PASSWORD"] %>
-# postgres://dgbqfbssrwndjp:1825a119ed29157d08960537a826c29f475711df138a6df2b05fb1ae78670f0a@ec2-63-32-248-14.eu-west-1.compute.amazonaws.com:5432/dbfsveikf9tbh
